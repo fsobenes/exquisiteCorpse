@@ -3,11 +3,19 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Fiorella Sobenes -- Co-Author, Repo Owner
+    
+    Katie Davis -- Co-Author
+    
+    Hyerin Seok -- Co-Author
+    
+    Ben Masathienvong -- Co-Author
+    
+    Hunter Haller -- Co-Author
 
 # THANKS
 
-    <name>
+    David Schaal -- Class Instructor
 
 # TECHNOLOGY COLOPHON
 
