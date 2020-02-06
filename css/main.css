@@ -25,6 +25,12 @@ body {
   font-family: 'Roboto';
 }
 
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 /*
  * Remove text-shadow in selection highlight:
  * https://twitter.com/miketaylr/status/12228805301
