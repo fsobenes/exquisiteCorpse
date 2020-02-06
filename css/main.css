@@ -16,6 +16,10 @@ html {
   font-size: 1em;
   line-height: 1.4;
 }
+
+#intro{
+  text-align: center;
+}
 body {
   background-color: #FFF;
   font-family: 'Roboto';
