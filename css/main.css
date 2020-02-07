@@ -23,6 +23,8 @@ html {
 body {
   background-image: url(../img/empireBackground.jpg);
   background-repeat: no-repeat;
+  background-position: center;
+ 
   background-color: #FFF;
   font-family: 'Roboto';
 }
