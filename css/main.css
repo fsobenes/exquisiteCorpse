@@ -21,6 +21,8 @@ html {
   text-align: center;
 }
 body {
+  background-image: url(../img/empireBackground.jpg);
+  background-repeat: no-repeat;
   background-color: #FFF;
   font-family: 'Roboto';
 }
