@@ -37,6 +37,75 @@ img{
   margin-right: auto;
 }
 
+.parallax{
+
+  /* Set a specific height */
+  min-height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#one{
+    /* The image used */
+  background-image: url("../img/llama.gif");
+  /* Set a specific height */
+  min-height: 1000px; !important
+
+}
+
+#two{
+    /* The image used */
+  background-image: url("../img/llamap1.jpg");
+}
+
+#three{
+    /* The image used */
+  background-image: url("../img/cuzcosad.jpg");
+}
+
+#four{
+    /* The image used */
+  background-image: url("../img/pachaintro.jpg");
+}
+
+#five{
+    /* The image used */
+  background-image: url("../img/coffee.jpg");
+}
+
+#six{
+    /* The image used */
+  background-image: url("../img/cuzcopacha.jpg");
+}
+
+#seven{
+    /* The image used */
+  background-image: url("../img/faintingllama.jpg");
+}
+
+#eight{
+    /* The image used */
+  background-image: url("../img/llamayelling.jpg");
+}
+
+#nine{
+    /* The image used */
+  background-image: url("../img/running.jpg");
+}
+
+#ten{
+    /* The image used */
+  background-image: url("../img/starbucks.jpg");
+}
+
+#eleven{
+    /* The image used */
+  background-image: url("../img/happycuzco.jpg");
+}
+
 p{
   background-color: rgb(128, 191, 255, 0.7)
 }
