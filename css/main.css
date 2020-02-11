@@ -49,16 +49,16 @@ img{
 
   /* Set a specific height */
   max-width: 100%;
-
+  min-height: 30%;
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
 }
 }
 #one{
-  padding-top: 200px;
+  padding: 100px 0;
     /* The image used */
   background-image: url("../img/llama.gif");
   /* Set a specific height */
