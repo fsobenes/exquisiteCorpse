@@ -44,6 +44,19 @@ img{
   background-repeat: no-repeat;
   background-size: cover;
 }
+@media only screen and (max-width: 600px) {
+.parallax{
+
+  /* Set a specific height */
+  max-width: 100%;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+}
 #one{
   padding-top: 200px;
     /* The image used */
