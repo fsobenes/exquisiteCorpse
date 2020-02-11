@@ -19,16 +19,12 @@ html {
 
 #intro{
   text-align: center;
+  font-size: 5em;
 }
 body {
-  background-image: url(../img/llamap1.jpg);
+  /*background-color: #F6F6F6;*/
   font-family: 'Roboto';
-
   height: 500px;
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
 }
 
 img{
@@ -63,12 +59,12 @@ img{
 
 #three{
     /* The image used */
-  background-image: url("../img/cuzcosad.jpg");
+  background-image: url("../img/cuzcosad.jpeg");
 }
 
 #four{
     /* The image used */
-  background-image: url("../img/pachaintro.jpg");
+  background-image: url("../img/pachaintro.png");
 }
 
 #five{
@@ -107,7 +103,15 @@ img{
 }
 
 p{
-  background-color: rgb(128, 191, 255, 0.7)
+  background-color: rgb(128, 191, 255, 0.6);
+  padding-right: 100px;
+  padding-left: 100px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  font-size: 1.2em;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /*
